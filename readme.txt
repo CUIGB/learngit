@@ -5,3 +5,4 @@ git traks changes of files.
 push github first.
 branch control 1.
 bug fix
+first fetch/pull
